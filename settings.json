@@ -1,0 +1,8 @@
+{
+    "max_text_length": 300,
+    "channels": [
+        "clontv",
+        "bot_haber",
+        "bpthaber"
+    ]
+}

@@ -1,0 +1,1854 @@
+2025-04-14 00:23:00,915 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:23:00,915 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:23:00,915 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:23:00,916 - INFO - Bot başlatılıyor...
+2025-04-14 00:23:00,917 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:23:00,917 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:23:00,999 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:23:01,058 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:23:01,323 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:23:01,324 - INFO - Hedef kanal: clontv
+2025-04-14 00:23:01,324 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:23:22,542 - INFO - Got difference for channel 1321635030 updates
+2025-04-14 00:23:22,542 - INFO - Yeni mesaj alındı: Cumhurbaşkanı Başdanışmanı Oktay Saral: "Kin ve ne...
+2025-04-14 00:23:22,542 - INFO - Mesaj işleniyor: 91
+2025-04-14 00:23:22,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:23:22,543 - INFO - Yeni mesaj alındı: Semih Saygıner'in hayatı dizi oluyor....
+2025-04-14 00:23:22,543 - INFO - Mesaj işleniyor: 92
+2025-04-14 00:23:22,544 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:23:22,908 - INFO - Tekli medya indirildi: bpthaber_media\temp_media_0.jpg
+2025-04-14 00:23:22,908 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:23:23,839 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:23:23,839 - INFO - Medya yükleniyor: 1 dosya
+2025-04-14 00:23:23,840 - INFO - Medya dosyası okunuyor: bpthaber_media\temp_media_0.jpg
+2025-04-14 00:23:23,846 - INFO - Medya yükleniyor: bpthaber_media\temp_media_0.jpg (image/jpeg)
+2025-04-14 00:23:25,293 - INFO - Medya başarıyla yüklendi
+2025-04-14 00:23:25,293 - INFO - Bluesky gönderisi oluşturuluyor...
+2025-04-14 00:23:25,293 - INFO - 1 medya dosyası gönderiye ekleniyor
+2025-04-14 00:23:25,294 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:23:26,069 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:23:26,070 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpy7xjd6g25","cid":"bafyreidj7rv4nj5a7ps2xfhgyf7lnnommlpx5j5qfyv4732jkkvxgvctvm","commit":{"cid":"bafyreigmcl3yr2ndggqc3n2zn55fu6bckdkrjqhsqmqyutgjjblufddauq","rev":"3lmpy7xjnw625"},"validationStatus":"valid"}
+2025-04-14 00:23:26,073 - INFO - Medya ile birlikte Bluesky'ye gönderildi
+2025-04-14 00:23:26,073 - ERROR - Mesaj işleme hatası: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'bpthaber_media\\temp_media_0.jpg'
+2025-04-14 00:23:26,211 - INFO - Tekli medya indirildi: bpthaber_media/temp_media_0.jpg
+2025-04-14 00:23:26,211 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:23:26,984 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:23:26,985 - INFO - Medya yükleniyor: 1 dosya
+2025-04-14 00:23:26,985 - INFO - Medya dosyası okunuyor: bpthaber_media/temp_media_0.jpg
+2025-04-14 00:23:26,992 - INFO - Medya yükleniyor: bpthaber_media/temp_media_0.jpg (image/jpeg)
+2025-04-14 00:23:28,415 - INFO - Medya başarıyla yüklendi
+2025-04-14 00:23:28,415 - INFO - Bluesky gönderisi oluşturuluyor...
+2025-04-14 00:23:28,415 - INFO - 1 medya dosyası gönderiye ekleniyor
+2025-04-14 00:23:28,416 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:23:29,814 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:23:29,814 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpya2imjz2u","cid":"bafyreic66d4m3f6o7cibciik7mnxjejb7454ajuaisrwjgdyxy3ok2gatu","commit":{"cid":"bafyreie6dyqvdhdut4tg5khl53bypaqk4y74yu46t23sziqhgdc727zm7e","rev":"3lmpya2iyaz2u"},"validationStatus":"valid"}
+2025-04-14 00:23:29,818 - INFO - Medya ile birlikte Bluesky'ye gönderildi
+2025-04-14 00:24:12,557 - INFO - Got difference for account updates
+2025-04-14 00:37:08,477 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:37:08,477 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:37:08,477 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:37:08,478 - INFO - Bot başlatılıyor...
+2025-04-14 00:37:08,479 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:37:08,479 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:37:08,513 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:37:08,576 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:37:08,856 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:37:08,857 - INFO - Hedef kanal: clontv
+2025-04-14 00:37:08,857 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:37:14,402 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:37:14,402 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:37:14,402 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:37:14,403 - INFO - Bot başlatılıyor...
+2025-04-14 00:37:14,404 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:37:14,404 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:37:14,442 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:37:14,506 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:37:14,773 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:37:14,773 - INFO - Hedef kanal: clontv
+2025-04-14 00:37:14,773 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:39:55,718 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:39:55,719 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:39:55,719 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:39:55,720 - INFO - Bot başlatılıyor...
+2025-04-14 00:39:55,720 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:39:55,720 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:39:55,760 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:39:55,856 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:39:56,278 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:39:56,278 - INFO - Hedef kanal: clontv
+2025-04-14 00:39:56,278 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:40:25,823 - INFO - Yeni mesaj alındı: Özgür Özel: “Milli Eğitim Bakanı Yusuf Tekin’in al...
+2025-04-14 00:40:25,823 - INFO - Mesaj işleniyor: 93
+2025-04-14 00:40:25,824 - INFO - Medya indiriliyor...
+2025-04-14 00:40:25,824 - ERROR - Mesaj işlenirken hata: 'MessageMediaPhoto' object is not iterable
+2025-04-14 00:40:25,824 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:40:25,824 - INFO - Mesaj işleniyor: 94
+2025-04-14 00:40:25,824 - INFO - Medya indiriliyor...
+2025-04-14 00:40:25,824 - ERROR - Mesaj işlenirken hata: 'MessageMediaPhoto' object is not iterable
+2025-04-14 00:41:02,695 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:41:02,695 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:41:02,695 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:41:02,696 - INFO - Bot başlatılıyor...
+2025-04-14 00:41:02,696 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:41:02,696 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:41:02,744 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:41:02,807 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:41:03,083 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:41:03,083 - INFO - Hedef kanal: clontv
+2025-04-14 00:41:03,083 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:41:08,170 - INFO - Yeni mesaj alındı: Özgür Özel: “Milli Eğitim Bakanı Yusuf Tekin’in al...
+2025-04-14 00:41:08,170 - INFO - Mesaj işleniyor: 95
+2025-04-14 00:41:08,170 - INFO - Medya indiriliyor...
+2025-04-14 00:41:08,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:41:08,171 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:41:08,171 - INFO - Mesaj işleniyor: 96
+2025-04-14 00:41:08,171 - INFO - Medya indiriliyor...
+2025-04-14 00:41:08,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:41:08,553 - INFO - Medya indirildi: bpthaber_media/95_0.jpg
+2025-04-14 00:41:08,553 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:41:08,553 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:41:09,568 - ERROR - Bluesky'ye gönderi yapılırken hata: 401 Client Error: Unauthorized for url: https://bsky.social/xrpc/com.atproto.server.createSession
+2025-04-14 00:41:09,568 - ERROR - Mesaj işlenirken hata: 401 Client Error: Unauthorized for url: https://bsky.social/xrpc/com.atproto.server.createSession
+2025-04-14 00:41:09,568 - ERROR - Hata detayı: 401 Client Error: Unauthorized for url: https://bsky.social/xrpc/com.atproto.server.createSession
+2025-04-14 00:41:10,368 - INFO - Medya indirildi: bpthaber_media/96_0.jpg
+2025-04-14 00:41:10,368 - ERROR - Mesaj işlenirken hata: 'Message' object has no attribute 'caption'
+2025-04-14 00:41:10,368 - ERROR - Hata detayı: 'Message' object has no attribute 'caption'
+2025-04-14 00:41:19,697 - INFO - Got difference for account updates
+2025-04-14 00:42:15,732 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:42:15,732 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:42:15,732 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:42:15,733 - INFO - Bot başlatılıyor...
+2025-04-14 00:42:15,733 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:42:15,733 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:42:15,780 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:42:15,842 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:42:16,115 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:42:16,115 - INFO - Hedef kanal: clontv
+2025-04-14 00:42:16,115 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:42:26,525 - INFO - Yeni mesaj alındı: Sea...
+2025-04-14 00:42:26,525 - INFO - Mesaj işleniyor: 97
+2025-04-14 00:42:26,525 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 00:42:26,525 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:42:27,393 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:42:27,394 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:42:27,628 - ERROR - Bluesky'ye gönderi yapılırken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:27,628 - ERROR - Mesaj işlenirken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:27,628 - ERROR - Hata detayı: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:39,663 - INFO - Yeni mesaj alındı: Özgür Özel: “Milli Eğitim Bakanı Yusuf Tekin’in al...
+2025-04-14 00:42:39,664 - INFO - Mesaj işleniyor: 98
+2025-04-14 00:42:39,664 - INFO - Medya indiriliyor...
+2025-04-14 00:42:39,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:42:39,665 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:42:39,665 - INFO - Mesaj işleniyor: 99
+2025-04-14 00:42:39,665 - INFO - Medya indiriliyor...
+2025-04-14 00:42:39,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:42:40,072 - INFO - Medya indirildi: bpthaber_media/98_0.jpg
+2025-04-14 00:42:40,072 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:42:40,073 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:42:40,820 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:42:40,820 - INFO - Medya yükleniyor...
+2025-04-14 00:42:41,753 - INFO - Medya yüklendi: bpthaber_media/98_0.jpg
+2025-04-14 00:42:41,753 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:42:41,991 - ERROR - Bluesky'ye gönderi yapılırken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:41,991 - ERROR - Mesaj işlenirken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:41,991 - ERROR - Hata detayı: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:42,935 - INFO - Medya indirildi: bpthaber_media/99_0.jpg
+2025-04-14 00:42:42,935 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:42:42,935 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:42:43,649 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:42:43,650 - INFO - Medya yükleniyor...
+2025-04-14 00:42:44,719 - INFO - Medya yüklendi: bpthaber_media/99_0.jpg
+2025-04-14 00:42:44,719 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:42:44,948 - ERROR - Bluesky'ye gönderi yapılırken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:44,949 - ERROR - Mesaj işlenirken hata: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:42:44,949 - ERROR - Hata detayı: 400 Client Error: Bad Request for url: https://bsky.social/xrpc/com.atproto.repo.createRecord
+2025-04-14 00:44:09,458 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:44:09,458 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:44:09,458 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:44:09,459 - INFO - Bot başlatılıyor...
+2025-04-14 00:44:09,459 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:44:09,459 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:44:09,537 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:44:09,597 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:44:09,929 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:44:09,929 - INFO - Hedef kanal: clontv
+2025-04-14 00:44:09,929 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:44:12,353 - INFO - Yeni mesaj alındı: Aa...
+2025-04-14 00:44:12,353 - INFO - Mesaj işleniyor: 100
+2025-04-14 00:44:12,353 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 00:44:12,353 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:44:13,254 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:44:13,254 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:44:13,254 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Aa",
+    "createdAt": "2025-04-13T21:44:13.254677+00:00"
+  }
+}
+2025-04-14 00:44:13,510 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:44:13,510 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzf56sj52x","cid":"bafyreidgayrdxbi3vsezgyr6nbiwigfbb223icq3t4juh64likskjz6wwu","commit":{"cid":"bafyreiape6pjhcoay7r2e3ok2puccetssttgkryvwljedm3rpcrhvwhpga","rev":"3lmpzf576a52x"},"validationStatus":"valid"}
+2025-04-14 00:44:13,510 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 00:44:32,333 - INFO - Yeni mesaj alındı: Özgür Özel: “Milli Eğitim Bakanı Yusuf Tekin’in al...
+2025-04-14 00:44:32,333 - INFO - Mesaj işleniyor: 101
+2025-04-14 00:44:32,333 - INFO - Medya indiriliyor...
+2025-04-14 00:44:32,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:44:32,334 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:44:32,334 - INFO - Mesaj işleniyor: 102
+2025-04-14 00:44:32,334 - INFO - Medya indiriliyor...
+2025-04-14 00:44:32,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:44:32,740 - INFO - Medya indirildi: bpthaber_media/101_0.jpg
+2025-04-14 00:44:32,741 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:44:32,741 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:44:33,454 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:44:33,454 - INFO - Medya yükleniyor...
+2025-04-14 00:44:34,304 - INFO - Medya yüklendi: bpthaber_media/101_0.jpg
+2025-04-14 00:44:34,304 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:44:34,304 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel: \u201cMilli E\u011fitim Bakan\u0131 Yusuf Tekin\u2019in aln\u0131n\u0131 kar\u0131\u015flayaca\u011f\u0131z.\n\n\u00dcniversitelerden sonra \u015fimdi de k\u00f6kl\u00fc liseleri ele ge\u00e7irmeye \u00e7al\u0131\u015f\u0131yorlar.\u201d",
+    "createdAt": "2025-04-13T21:44:34.304729+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigybzf46om3ozsoruzscnwedquj5ang3aqbnfejji2qevhawcgzr4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 85643
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:44:35,298 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:44:35,298 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzfrb6tc2k","cid":"bafyreie5awkj33mgz2njspwcff7x2fpfvrd2kt2x57fyjoyfzt5hv2chvu","commit":{"cid":"bafyreigpa3eujxowivhls2gketlh75t6v6rfyvf4cxt6bpgxpe4r7epk3m","rev":"3lmpzfrbpgk2k"},"validationStatus":"valid"}
+2025-04-14 00:44:35,298 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:44:35,300 - INFO - Medya dosyası silindi: bpthaber_media/101_0.jpg
+2025-04-14 00:44:36,274 - INFO - Medya indirildi: bpthaber_media/102_0.jpg
+2025-04-14 00:44:36,274 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:44:36,274 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:44:37,033 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:44:37,033 - INFO - Medya yükleniyor...
+2025-04-14 00:44:38,111 - INFO - Medya yüklendi: bpthaber_media/102_0.jpg
+2025-04-14 00:44:38,111 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:44:38,111 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:44:38.111519+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieedw2saizjnpxbmerpqoe5cujpyalnldd27vukqnvugwf6ezvefy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 410706
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:44:39,440 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:44:39,440 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzfuvgrk22","cid":"bafyreidcdxvlsh3ub2dfq4p6ol7n3eg6vkyrgbaflo3sosflyhw4obhpsi","commit":{"cid":"bafyreidwxxc72yhbywysqvgulbucjvby5kbojqjmyqpv7kn2pbfj6cgiby","rev":"3lmpzfuvsik22"},"validationStatus":"valid"}
+2025-04-14 00:44:39,440 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:44:39,442 - INFO - Medya dosyası silindi: bpthaber_media/102_0.jpg
+2025-04-14 00:44:39,852 - INFO - Got difference for account updates
+2025-04-14 00:46:05,522 - INFO - Yeni mesaj alındı: Özgür Özel: “Milli Eğitim Bakanı Yusuf Tekin’in al...
+2025-04-14 00:46:05,522 - INFO - Mesaj işleniyor: 103
+2025-04-14 00:46:05,523 - INFO - Medya indiriliyor...
+2025-04-14 00:46:05,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:46:05,523 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:46:05,524 - INFO - Mesaj işleniyor: 104
+2025-04-14 00:46:05,524 - INFO - Medya indiriliyor...
+2025-04-14 00:46:05,524 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:46:05,855 - INFO - Medya indirildi: bpthaber_media/103_0.jpg
+2025-04-14 00:46:05,855 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:46:05,855 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:46:06,738 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:46:06,739 - INFO - Medya yükleniyor...
+2025-04-14 00:46:07,547 - INFO - Medya yüklendi: bpthaber_media/103_0.jpg
+2025-04-14 00:46:07,547 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:46:07,547 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel: \u201cMilli E\u011fitim Bakan\u0131 Yusuf Tekin\u2019in aln\u0131n\u0131 kar\u0131\u015flayaca\u011f\u0131z.\n\n\u00dcniversitelerden sonra \u015fimdi de k\u00f6kl\u00fc liseleri ele ge\u00e7irmeye \u00e7al\u0131\u015f\u0131yorlar.\u201d",
+    "createdAt": "2025-04-13T21:46:07.547373+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigybzf46om3ozsoruzscnwedquj5ang3aqbnfejji2qevhawcgzr4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 85643
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:46:08,416 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:46:08,416 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzik6f2f2x","cid":"bafyreiauhmo2gedgd7k5ojc3vpwmsyky7hdwuj2ka3ipydhq66duizmw2i","commit":{"cid":"bafyreihcbp62o6eesej5zx4u6rzvufrnbul5tpznl7gmzvn2cuqvkj46dy","rev":"3lmpzik6ntn2x"},"validationStatus":"valid"}
+2025-04-14 00:46:08,416 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:46:08,417 - INFO - Medya dosyası silindi: bpthaber_media/103_0.jpg
+2025-04-14 00:46:09,450 - INFO - Medya indirildi: bpthaber_media/104_0.jpg
+2025-04-14 00:46:09,450 - INFO - 1 adet medya Bluesky'ye gönderiliyor...
+2025-04-14 00:46:09,450 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:46:10,190 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:46:10,190 - INFO - Medya yükleniyor...
+2025-04-14 00:46:11,354 - INFO - Medya yüklendi: bpthaber_media/104_0.jpg
+2025-04-14 00:46:11,354 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:46:11,355 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:46:11.354961+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieedw2saizjnpxbmerpqoe5cujpyalnldd27vukqnvugwf6ezvefy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 410706
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:46:12,250 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:46:12,250 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzinsrdk2k","cid":"bafyreiek4eyblrwqfchcn7lmtfumvlvk4lqjenkovfafx5e3z26qleaqnq","commit":{"cid":"bafyreiaoxtyx6kppvoy7f6ty3ztd5uhbmkmpbavxh3eg3hvirwkvbaufue","rev":"3lmpzint5zs2k"},"validationStatus":"valid"}
+2025-04-14 00:46:12,250 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:46:12,252 - INFO - Medya dosyası silindi: bpthaber_media/104_0.jpg
+2025-04-14 00:46:39,875 - INFO - Got difference for account updates
+2025-04-14 00:47:02,404 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:47:02,404 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:47:02,405 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:47:02,406 - INFO - Bot başlatılıyor...
+2025-04-14 00:47:02,406 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:47:02,406 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:47:02,486 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:47:02,545 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:47:02,800 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:47:02,800 - INFO - Hedef kanal: clontv
+2025-04-14 00:47:02,800 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:47:06,165 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:47:06,166 - INFO - Mesaj işleniyor: 105
+2025-04-14 00:47:06,166 - INFO - Medya indiriliyor...
+2025-04-14 00:47:06,166 - INFO - Grup medyası tespit edildi
+2025-04-14 00:47:06,166 - ERROR - Request caused struct.error: 'i' format requires -2147483648 <= number <= 2147483647: GetMessagesRequest(channel=InputChannel(channel_id=1321635030, access_hash=-8394436493472054060), id=[InputMessageID(id=13956646613632100)])
+2025-04-14 00:47:06,167 - ERROR - Mesaj işlenirken hata: 'i' format requires -2147483648 <= number <= 2147483647
+2025-04-14 00:47:06,167 - ERROR - Hata detayı: 'i' format requires -2147483648 <= number <= 2147483647
+2025-04-14 00:47:06,167 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:47:06,167 - INFO - Mesaj işleniyor: 106
+2025-04-14 00:47:06,167 - INFO - Medya indiriliyor...
+2025-04-14 00:47:06,167 - INFO - Grup medyası tespit edildi
+2025-04-14 00:47:06,167 - ERROR - Request caused struct.error: 'i' format requires -2147483648 <= number <= 2147483647: GetMessagesRequest(channel=InputChannel(channel_id=1321635030, access_hash=-8394436493472054060), id=[InputMessageID(id=13956646613632100)])
+2025-04-14 00:47:06,167 - ERROR - Mesaj işlenirken hata: 'i' format requires -2147483648 <= number <= 2147483647
+2025-04-14 00:47:06,168 - ERROR - Hata detayı: 'i' format requires -2147483648 <= number <= 2147483647
+2025-04-14 00:47:39,839 - INFO - Got difference for account updates
+2025-04-14 00:47:55,790 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:47:55,790 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:47:55,790 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:47:55,791 - INFO - Bot başlatılıyor...
+2025-04-14 00:47:55,791 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:47:55,791 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:47:55,825 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:47:55,886 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:47:56,170 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:47:56,170 - INFO - Hedef kanal: clontv
+2025-04-14 00:47:56,170 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:48:00,349 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:48:00,349 - INFO - Mesaj işleniyor: 107
+2025-04-14 00:48:00,350 - INFO - Medya indiriliyor...
+2025-04-14 00:48:00,350 - INFO - Grup medyası tespit edildi
+2025-04-14 00:48:00,350 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:48:00,351 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:48:00,351 - INFO - Mesaj işleniyor: 108
+2025-04-14 00:48:00,351 - INFO - Medya indiriliyor...
+2025-04-14 00:48:00,351 - INFO - Grup medyası tespit edildi
+2025-04-14 00:48:00,351 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:48:00,830 - INFO - Ana grup medyası indirildi: bpthaber_media/107_0.jpg
+2025-04-14 00:48:01,090 - INFO - 1 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:48:01,090 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:48:02,252 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:48:02,252 - INFO - Medya yükleniyor...
+2025-04-14 00:48:03,179 - INFO - Medya yüklendi: bpthaber_media/107_0.jpg
+2025-04-14 00:48:03,179 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:48:03,180 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel, Ekrem \u0130mamo\u011flu i\u00e7in toplanan imza say\u0131s\u0131n\u0131n 10 milyonu ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.\n\n28 milyon ki\u015fiden imza toplanmas\u0131 bekleniyor.",
+    "createdAt": "2025-04-13T21:48:03.179875+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:48:04,216 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:48:04,217 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzlylj4w2n","cid":"bafyreia6dyq6gpym34dye3fycpo2eupp2wbinmvfgyo5og2b5kotfjpfvu","commit":{"cid":"bafyreiasmb6oiiaimzmjjla4lp57rlhxkfl5kvl3gas64kx76ziml7mpry","rev":"3lmpzlym2pg2n"},"validationStatus":"valid"}
+2025-04-14 00:48:04,217 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:48:04,218 - INFO - Medya dosyası silindi: bpthaber_media/107_0.jpg
+2025-04-14 00:48:05,035 - INFO - Ana grup medyası indirildi: bpthaber_media/108_0.jpg
+2025-04-14 00:48:05,112 - INFO - 1 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:48:05,112 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:48:05,825 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:48:05,826 - INFO - Medya yükleniyor...
+2025-04-14 00:48:06,913 - INFO - Medya yüklendi: bpthaber_media/108_0.jpg
+2025-04-14 00:48:06,913 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:48:06,913 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:48:06.913814+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:48:07,926 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:48:07,926 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzm3zjyb2c","cid":"bafyreihivtfwhdx6qntmzsu323d74w7josuf3rti2cef7yjcbet2etg5qm","commit":{"cid":"bafyreih25vifnty6kszladbypu7ck6lqbr6tyvhf4j7kiuwhybhj3luy6i","rev":"3lmpzm3zwoj2c"},"validationStatus":"valid"}
+2025-04-14 00:48:07,926 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 00:48:07,928 - INFO - Medya dosyası silindi: bpthaber_media/108_0.jpg
+2025-04-14 00:48:39,891 - INFO - Got difference for account updates
+2025-04-14 00:49:22,951 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:49:22,951 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:49:22,951 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:49:22,953 - INFO - Bot başlatılıyor...
+2025-04-14 00:49:22,953 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:49:22,953 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:49:23,037 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:49:23,098 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:49:23,362 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:49:23,363 - INFO - Hedef kanal: clontv
+2025-04-14 00:49:23,363 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:49:30,719 - INFO - Got difference for channel 1321635030 updates
+2025-04-14 00:49:30,720 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:49:30,720 - INFO - Mesaj işleniyor: 108
+2025-04-14 00:49:30,720 - INFO - Medya indiriliyor...
+2025-04-14 00:49:30,720 - INFO - Grup medyası tespit edildi
+2025-04-14 00:49:30,720 - WARNING - Medya grubu bulunamadı
+2025-04-14 00:49:30,720 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:49:30,720 - INFO - Mesaj işleniyor: 109
+2025-04-14 00:49:30,720 - INFO - Medya indiriliyor...
+2025-04-14 00:49:30,721 - INFO - Grup medyası tespit edildi
+2025-04-14 00:49:30,721 - WARNING - Medya grubu bulunamadı
+2025-04-14 00:49:30,721 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:49:30,721 - INFO - Mesaj işleniyor: 110
+2025-04-14 00:49:30,721 - INFO - Medya indiriliyor...
+2025-04-14 00:49:30,721 - INFO - Grup medyası tespit edildi
+2025-04-14 00:49:30,721 - WARNING - Medya grubu bulunamadı
+2025-04-14 00:50:14,967 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:50:14,967 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:50:14,967 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:50:14,968 - INFO - Bot başlatılıyor...
+2025-04-14 00:50:14,968 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:50:14,968 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:50:15,007 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:50:15,068 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:50:16,107 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:50:16,107 - INFO - Hedef kanal: clontv
+2025-04-14 00:50:16,107 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:50:19,678 - INFO - Got difference for channel 1321635030 updates
+2025-04-14 00:50:19,679 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:50:19,679 - INFO - Mesaj işleniyor: 111
+2025-04-14 00:50:19,679 - INFO - Medya indiriliyor...
+2025-04-14 00:50:19,679 - INFO - Grup medyası tespit edildi
+2025-04-14 00:50:19,680 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:50:19,680 - INFO - Mesaj işleniyor: 112
+2025-04-14 00:50:19,680 - INFO - Medya indiriliyor...
+2025-04-14 00:50:19,680 - INFO - Grup medyası tespit edildi
+2025-04-14 00:50:19,756 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:50:19,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:50:19,768 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:50:19,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:50:20,251 - INFO - Grup medyası indirildi: bpthaber_media/112_0.jpg
+2025-04-14 00:50:20,252 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:50:20,486 - INFO - Grup medyası indirildi: bpthaber_media/111_0.jpg
+2025-04-14 00:50:20,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:50:22,120 - INFO - Grup medyası indirildi: bpthaber_media/112_1.jpg
+2025-04-14 00:50:22,120 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:50:22,120 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:50:23,012 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:50:23,012 - INFO - Medya yükleniyor...
+2025-04-14 00:50:23,862 - INFO - Medya yüklendi: bpthaber_media/112_0.jpg
+2025-04-14 00:50:24,858 - INFO - Medya yüklendi: bpthaber_media/112_1.jpg
+2025-04-14 00:50:24,858 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:50:24,858 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:50:24.858763+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:50:25,896 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:50:25,897 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzq7pdvn2x","cid":"bafyreiez42swks5wh4elqdon5rb24zqhspitjuwkbxbf3hlovwznmtjec4","commit":{"cid":"bafyreibleg3acnuvmbawie2ujtm3gqqljbnv65son4t7qdbc5enmtjcpc4","rev":"3lmpzq7ppmn2x"},"validationStatus":"valid"}
+2025-04-14 00:50:25,897 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:50:25,898 - INFO - Medya dosyası silindi: bpthaber_media/112_0.jpg
+2025-04-14 00:50:25,899 - INFO - Medya dosyası silindi: bpthaber_media/112_1.jpg
+2025-04-14 00:50:25,960 - INFO - Grup medyası indirildi: bpthaber_media/111_1.jpg
+2025-04-14 00:50:25,960 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:50:25,960 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:50:26,669 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:50:26,670 - INFO - Medya yükleniyor...
+2025-04-14 00:50:27,488 - INFO - Medya yüklendi: bpthaber_media/111_0.jpg
+2025-04-14 00:50:28,503 - INFO - Medya yüklendi: bpthaber_media/111_1.jpg
+2025-04-14 00:50:28,503 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:50:28,503 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel, Ekrem \u0130mamo\u011flu i\u00e7in toplanan imza say\u0131s\u0131n\u0131n 10 milyonu ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.\n\n28 milyon ki\u015fiden imza toplanmas\u0131 bekleniyor.",
+    "createdAt": "2025-04-13T21:50:28.503438+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:50:28,750 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:50:28,750 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzqd2k5y2b","cid":"bafyreib7q72kpmifrywdt6gv7sc4tojstp72gqdq2rebazmgpedllfa6xy","commit":{"cid":"bafyreigbtrzqg4hgunaeabi5ml6tgtladoh6epwkbqbsbpij5z7asxpvqq","rev":"3lmpzqd2vuy2b"},"validationStatus":"valid"}
+2025-04-14 00:50:28,750 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:50:28,752 - INFO - Medya dosyası silindi: bpthaber_media/111_0.jpg
+2025-04-14 00:50:28,752 - INFO - Medya dosyası silindi: bpthaber_media/111_1.jpg
+2025-04-14 00:50:56,171 - INFO - Got difference for account updates
+2025-04-14 00:51:22,610 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:51:22,610 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:51:22,610 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:51:22,611 - INFO - Bot başlatılıyor...
+2025-04-14 00:51:22,611 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:51:22,611 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:51:22,662 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:51:22,720 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:51:22,980 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:51:22,980 - INFO - Hedef kanal: clontv
+2025-04-14 00:51:22,981 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:51:26,298 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:51:26,298 - INFO - Mesaj işleniyor: 115
+2025-04-14 00:51:26,298 - INFO - Medya indiriliyor...
+2025-04-14 00:51:26,298 - INFO - Grup medyası tespit edildi
+2025-04-14 00:51:26,298 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:51:26,299 - INFO - Mesaj işleniyor: 116
+2025-04-14 00:51:26,299 - INFO - Medya indiriliyor...
+2025-04-14 00:51:26,299 - INFO - Grup medyası tespit edildi
+2025-04-14 00:51:26,377 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:51:26,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:51:26,382 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:51:26,383 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:51:26,836 - INFO - Grup medyası indirildi: bpthaber_media/115_0.jpg
+2025-04-14 00:51:26,837 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:51:27,068 - INFO - Grup medyası indirildi: bpthaber_media/116_0.jpg
+2025-04-14 00:51:27,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:51:28,664 - INFO - Grup medyası indirildi: bpthaber_media/115_1.jpg
+2025-04-14 00:51:28,665 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:51:28,665 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:51:29,591 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:51:29,592 - INFO - Medya yükleniyor...
+2025-04-14 00:51:30,479 - INFO - Medya yüklendi: bpthaber_media/115_0.jpg
+2025-04-14 00:51:31,311 - INFO - Medya yüklendi: bpthaber_media/115_1.jpg
+2025-04-14 00:51:31,311 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:51:31,311 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel, Ekrem \u0130mamo\u011flu i\u00e7in toplanan imza say\u0131s\u0131n\u0131n 10 milyonu ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.\n\n28 milyon ki\u015fiden imza toplanmas\u0131 bekleniyor.",
+    "createdAt": "2025-04-13T21:51:31.311393+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:51:32,270 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:51:32,270 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzs6xcez2c","cid":"bafyreibj7wcfyyl7sfqd5fp3w3ka2vspxyxlvlmj5retqn6npbb7snms44","commit":{"cid":"bafyreibdjid5eqi45xb7tr5xymmv46hlysg5owrxtomi42mevsofavvvdm","rev":"3lmpzs6y4qr2c"},"validationStatus":"valid"}
+2025-04-14 00:51:32,270 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:51:32,272 - INFO - Medya dosyası silindi: bpthaber_media/115_0.jpg
+2025-04-14 00:51:32,272 - INFO - Medya dosyası silindi: bpthaber_media/115_1.jpg
+2025-04-14 00:51:32,333 - INFO - Grup medyası indirildi: bpthaber_media/116_1.jpg
+2025-04-14 00:51:32,333 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:51:32,333 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:51:33,086 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:51:33,086 - INFO - Medya yükleniyor...
+2025-04-14 00:51:33,972 - INFO - Medya yüklendi: bpthaber_media/116_0.jpg
+2025-04-14 00:51:34,911 - INFO - Medya yüklendi: bpthaber_media/116_1.jpg
+2025-04-14 00:51:34,911 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:51:34,911 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:51:34.911742+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:51:35,174 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:51:35,174 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzscfbmy2b","cid":"bafyreifzvmedqjgty4cek3pa7to6ujythme6phuziotcy3a5eox4echchm","commit":{"cid":"bafyreidsxqpklw7ayfrcwlx5th62dlhdsk4kwj6drrvagbaoxviul4roy4","rev":"3lmpzscfndy2b"},"validationStatus":"valid"}
+2025-04-14 00:51:35,174 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:51:35,176 - INFO - Medya dosyası silindi: bpthaber_media/116_0.jpg
+2025-04-14 00:51:35,176 - INFO - Medya dosyası silindi: bpthaber_media/116_1.jpg
+2025-04-14 00:51:55,951 - INFO - Got difference for account updates
+2025-04-14 00:52:31,203 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:52:31,203 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:52:31,204 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:52:31,204 - INFO - Bot başlatılıyor...
+2025-04-14 00:52:31,205 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:52:31,205 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:52:31,250 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:52:31,309 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:52:31,581 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:52:31,581 - INFO - Hedef kanal: clontv
+2025-04-14 00:52:31,581 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:52:35,225 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:52:35,225 - INFO - Mesaj işleniyor: 117
+2025-04-14 00:52:35,225 - INFO - Medya indiriliyor...
+2025-04-14 00:52:35,225 - INFO - Grup medyası tespit edildi
+2025-04-14 00:52:35,225 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:52:35,225 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:52:35,225 - INFO - Mesaj işleniyor: 118
+2025-04-14 00:52:35,225 - INFO - Medya indiriliyor...
+2025-04-14 00:52:35,226 - INFO - Grup medyası tespit edildi
+2025-04-14 00:52:35,226 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:52:57,564 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:52:57,564 - INFO - Mesaj işleniyor: 119
+2025-04-14 00:52:57,564 - INFO - Medya indiriliyor...
+2025-04-14 00:52:57,564 - INFO - Grup medyası tespit edildi
+2025-04-14 00:52:57,564 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:52:57,564 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:52:57,565 - INFO - Mesaj işleniyor: 120
+2025-04-14 00:52:57,565 - INFO - Medya indiriliyor...
+2025-04-14 00:52:57,565 - INFO - Grup medyası tespit edildi
+2025-04-14 00:52:57,565 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:53:45,199 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:53:45,200 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:53:45,200 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:53:45,201 - INFO - Bot başlatılıyor...
+2025-04-14 00:53:45,201 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:53:45,201 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:53:45,249 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:53:45,314 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:53:45,587 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:53:45,587 - INFO - Hedef kanal: clontv
+2025-04-14 00:53:45,587 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:53:50,026 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:53:50,026 - INFO - Mesaj işleniyor: 123
+2025-04-14 00:53:50,026 - INFO - Medya indiriliyor...
+2025-04-14 00:53:50,026 - INFO - Grup medyası tespit edildi
+2025-04-14 00:53:50,026 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:53:50,026 - INFO - Mesaj işleniyor: 124
+2025-04-14 00:53:50,026 - INFO - Medya indiriliyor...
+2025-04-14 00:53:50,027 - INFO - Grup medyası tespit edildi
+2025-04-14 00:53:50,204 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:53:50,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:53:50,209 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:53:50,210 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:53:50,716 - INFO - Grup medyası indirildi: bpthaber_media/123_0.jpg
+2025-04-14 00:53:50,717 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:53:50,950 - INFO - Grup medyası indirildi: bpthaber_media/124_0.jpg
+2025-04-14 00:53:50,951 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:53:52,638 - INFO - Grup medyası indirildi: bpthaber_media/123_1.jpg
+2025-04-14 00:53:52,638 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:53:52,638 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:53:53,533 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:53:53,533 - INFO - Medya yükleniyor...
+2025-04-14 00:53:54,430 - INFO - Medya yüklendi: bpthaber_media/123_0.jpg
+2025-04-14 00:53:55,233 - INFO - Medya yüklendi: bpthaber_media/123_1.jpg
+2025-04-14 00:53:55,233 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:53:55,233 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel, Ekrem \u0130mamo\u011flu i\u00e7in toplanan imza say\u0131s\u0131n\u0131n 10 milyonu ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.\n\n28 milyon ki\u015fiden imza toplanmas\u0131 bekleniyor.",
+    "createdAt": "2025-04-13T21:53:55.233260+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:53:56,158 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:53:56,158 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzwi7mln27","cid":"bafyreidwvoedhw4iblsosntiyzzmkwpyb6eoelo2tk2mjugd7laahtmoua","commit":{"cid":"bafyreigsux5b63m4ec4klrk5ygol7sze3ytn3dbisygi5hbgiz5p4wfihe","rev":"3lmpzwia56v27"},"validationStatus":"valid"}
+2025-04-14 00:53:56,158 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:53:56,160 - INFO - Medya dosyası silindi: bpthaber_media/123_0.jpg
+2025-04-14 00:53:56,160 - INFO - Medya dosyası silindi: bpthaber_media/123_1.jpg
+2025-04-14 00:53:56,222 - INFO - Grup medyası indirildi: bpthaber_media/124_1.jpg
+2025-04-14 00:53:56,222 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:53:56,222 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:53:56,973 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:53:56,973 - INFO - Medya yükleniyor...
+2025-04-14 00:53:57,965 - INFO - Medya yüklendi: bpthaber_media/124_0.jpg
+2025-04-14 00:53:58,838 - INFO - Medya yüklendi: bpthaber_media/124_1.jpg
+2025-04-14 00:53:58,838 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:53:58,839 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "",
+    "createdAt": "2025-04-13T21:53:58.838957+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:53:59,096 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:53:59,096 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmpzwlnjrk2z","cid":"bafyreifackcxgwxghhmm55oeeb5wpwboknypirq2tljga337iyabs5fbk4","commit":{"cid":"bafyreicgtxqlcrqdeltnxxmpjqf6cgmg636mlom73ytg7e7pwtzhytp5ou","rev":"3lmpzwlnvik2z"},"validationStatus":"valid"}
+2025-04-14 00:53:59,097 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:53:59,098 - INFO - Medya dosyası silindi: bpthaber_media/124_0.jpg
+2025-04-14 00:53:59,099 - INFO - Medya dosyası silindi: bpthaber_media/124_1.jpg
+2025-04-14 00:54:25,965 - INFO - Got difference for account updates
+2025-04-14 00:55:18,226 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:55:18,226 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:55:18,227 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:55:18,228 - INFO - Bot başlatılıyor...
+2025-04-14 00:55:18,228 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:55:18,228 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:55:18,303 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:55:18,364 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:55:18,638 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:55:18,638 - INFO - Hedef kanal: clontv
+2025-04-14 00:55:18,638 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:55:22,704 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:55:22,704 - INFO - Mesaj işleniyor: 125
+2025-04-14 00:55:22,704 - INFO - Medya indiriliyor...
+2025-04-14 00:55:22,704 - INFO - Grup medyası tespit edildi
+2025-04-14 00:55:22,704 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:55:22,704 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:55:22,705 - INFO - Mesaj işleniyor: 126
+2025-04-14 00:55:22,705 - INFO - Medya indiriliyor...
+2025-04-14 00:55:22,705 - INFO - Grup medyası tespit edildi
+2025-04-14 00:55:22,705 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:56:12,458 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 00:56:12,458 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:56:12,458 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:56:12,459 - INFO - Bot başlatılıyor...
+2025-04-14 00:56:12,459 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 00:56:12,459 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 00:56:12,495 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 00:56:12,556 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 00:56:12,818 - INFO - Telegram'a bağlanıldı
+2025-04-14 00:56:12,818 - INFO - Hedef kanal: clontv
+2025-04-14 00:56:12,818 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 00:56:18,408 - INFO - Yeni mesaj alındı: Özgür Özel, Ekrem İmamoğlu için toplanan imza sayı...
+2025-04-14 00:56:18,408 - INFO - Mesaj işleniyor: 127
+2025-04-14 00:56:18,409 - INFO - Medya indiriliyor...
+2025-04-14 00:56:18,409 - INFO - Grup medyası tespit edildi
+2025-04-14 00:56:18,409 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:56:18,409 - INFO - Mesaj işleniyor: 128
+2025-04-14 00:56:18,409 - INFO - Medya indiriliyor...
+2025-04-14 00:56:18,409 - INFO - Grup medyası tespit edildi
+2025-04-14 00:56:18,486 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:56:18,486 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:56:18,491 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:56:18,965 - INFO - Grup medyası indirildi: bpthaber_media/127_0.jpg
+2025-04-14 00:56:18,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:56:20,188 - INFO - Grup medyası indirildi: bpthaber_media/127_1.jpg
+2025-04-14 00:56:20,188 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:56:20,188 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:56:21,070 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:56:21,070 - INFO - Medya yükleniyor...
+2025-04-14 00:56:22,001 - INFO - Medya yüklendi: bpthaber_media/127_0.jpg
+2025-04-14 00:56:22,913 - INFO - Medya yüklendi: bpthaber_media/127_1.jpg
+2025-04-14 00:56:22,914 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:56:22,914 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00d6zg\u00fcr \u00d6zel, Ekrem \u0130mamo\u011flu i\u00e7in toplanan imza say\u0131s\u0131n\u0131n 10 milyonu ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.\n\n28 milyon ki\u015fiden imza toplanmas\u0131 bekleniyor.",
+    "createdAt": "2025-04-13T21:56:22.914035+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4qtxvsvxud2mhidcw46n3ii2f2rm6inoan2wekbzlfvss5ahbam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 143008
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicejprpe72iwiu4rwhx7bk24htsltsd5jnrls4ewaq5uyonowo6mq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 563725
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:56:23,972 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:56:23,972 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq22v6oos2z","cid":"bafyreicsjgl7b6ro5zwtggkbssmpwxmbqxv2k2y7stmh7yrh4z7jfymkum","commit":{"cid":"bafyreigld6nhcgpn7gnsxkzpmigbymfkwrjevem6llold47vrw23ogc5km","rev":"3lmq22v72fs2z"},"validationStatus":"valid"}
+2025-04-14 00:56:23,972 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:56:23,974 - INFO - Medya dosyası silindi: bpthaber_media/127_0.jpg
+2025-04-14 00:56:23,974 - INFO - Medya dosyası silindi: bpthaber_media/127_1.jpg
+2025-04-14 00:56:45,060 - INFO - Yeni mesaj alındı: Adana’da bir çiftçi, etrafı açık tarlasına kapı ye...
+2025-04-14 00:56:45,060 - INFO - Mesaj işleniyor: 129
+2025-04-14 00:56:45,060 - INFO - Medya indiriliyor...
+2025-04-14 00:56:45,060 - INFO - Grup medyası tespit edildi
+2025-04-14 00:56:45,061 - INFO - Yeni mesaj alındı: ...
+2025-04-14 00:56:45,061 - INFO - Mesaj işleniyor: 130
+2025-04-14 00:56:45,061 - INFO - Medya indiriliyor...
+2025-04-14 00:56:45,061 - INFO - Grup medyası tespit edildi
+2025-04-14 00:56:45,145 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 00:56:45,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:56:45,152 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 00:56:46,395 - INFO - Grup medyası indirildi: bpthaber_media/129_0.jpg
+2025-04-14 00:56:46,396 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 00:56:47,069 - INFO - Grup medyası indirildi: bpthaber_media/129_1.jpg
+2025-04-14 00:56:47,070 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 00:56:47,070 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 00:56:47,827 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 00:56:47,827 - INFO - Medya yükleniyor...
+2025-04-14 00:56:49,015 - INFO - Medya yüklendi: bpthaber_media/129_0.jpg
+2025-04-14 00:56:49,907 - INFO - Medya yüklendi: bpthaber_media/129_1.jpg
+2025-04-14 00:56:49,907 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 00:56:49,907 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Adana\u2019da bir \u00e7ift\u00e7i, etraf\u0131 a\u00e7\u0131k tarlas\u0131na kap\u0131 yerle\u015ftirip asma kilit ile kilitledi.",
+    "createdAt": "2025-04-13T21:56:49.907352+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigbmvwcglvp2qrqiuu2vfoqkmnqhyapkcpovlcrdizwhfys6hmspe"
+            },
+            "mimeType": "image/jpeg",
+            "size": 511949
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifkyqwif2ipdkkfurttc2a5sjcbhubllawhrobj3k7fkiw5kjxtn4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 322791
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 00:56:50,864 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 00:56:50,864 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq23osbae2c","cid":"bafyreidinae36vomxo2cmw66kgnccnxutuqwk3vjobjs4pqsrm43247fui","commit":{"cid":"bafyreicymatbdrhdfjndvkwirecppohkimkkh577xjg7if2buov7bu5kua","rev":"3lmq23osmxe2c"},"validationStatus":"valid"}
+2025-04-14 00:56:50,865 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 00:56:50,866 - INFO - Medya dosyası silindi: bpthaber_media/129_0.jpg
+2025-04-14 00:56:50,867 - INFO - Medya dosyası silindi: bpthaber_media/129_1.jpg
+2025-04-14 00:56:52,013 - INFO - Got difference for account updates
+2025-04-14 01:29:07,344 - INFO - Got difference for account updates
+2025-04-14 01:29:13,536 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:29:13,536 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:29:13,536 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:29:13,537 - INFO - Bot başlatılıyor...
+2025-04-14 01:29:13,538 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:29:13,538 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:29:13,577 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:29:13,640 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:29:13,914 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:29:13,914 - INFO - Hedef kanal: clontv
+2025-04-14 01:29:13,914 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:29:17,388 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:29:17,389 - INFO - Mesaj işleniyor: 149
+2025-04-14 01:29:17,389 - INFO - Medya indiriliyor...
+2025-04-14 01:29:17,389 - INFO - Grup medyası tespit edildi
+2025-04-14 01:29:17,473 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:29:44,634 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:29:44,634 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:29:44,634 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:29:44,635 - INFO - Bot başlatılıyor...
+2025-04-14 01:29:44,635 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:29:44,635 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:29:44,668 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:29:44,730 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:29:45,061 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:29:45,061 - INFO - Hedef kanal: clontv
+2025-04-14 01:29:45,062 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:29:49,844 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:29:49,844 - INFO - Mesaj işleniyor: 150
+2025-04-14 01:29:49,845 - INFO - Medya indiriliyor...
+2025-04-14 01:29:49,845 - INFO - Grup medyası tespit edildi
+2025-04-14 01:29:49,986 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:29:53,241 - INFO - Yeni mesaj alındı: Kl...
+2025-04-14 01:29:53,241 - INFO - Mesaj işleniyor: 151
+2025-04-14 01:29:53,242 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 01:29:53,242 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:29:54,146 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:29:54,146 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:29:54,146 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Kl",
+    "createdAt": "2025-04-13T22:29:54.146317+00:00"
+  }
+}
+2025-04-14 01:29:54,532 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:29:54,532 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq3wtb5zc2z","cid":"bafyreiey33huqqcracmdjw4mij3oymmvc57sfubiirphuhthqk2fhlscpi","commit":{"cid":"bafyreifuxvj2rsh4l5smsfqvvvggwia2r3e4tdnch36jwz7bflf3ebzfeq","rev":"3lmq3wtbjqc2z"},"validationStatus":"valid"}
+2025-04-14 01:29:54,532 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 01:30:17,402 - INFO - Yeni mesaj alındı: Çaykur Rizespor taraftarları, Papara Park’ta depla...
+2025-04-14 01:30:17,402 - INFO - Mesaj işleniyor: 152
+2025-04-14 01:30:17,402 - INFO - Medya indiriliyor...
+2025-04-14 01:30:17,402 - INFO - Grup medyası tespit edildi
+2025-04-14 01:30:17,403 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:30:17,403 - INFO - Mesaj işleniyor: 153
+2025-04-14 01:30:17,403 - INFO - Medya indiriliyor...
+2025-04-14 01:30:17,403 - INFO - Grup medyası tespit edildi
+2025-04-14 01:30:17,403 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:30:17,403 - INFO - Mesaj işleniyor: 154
+2025-04-14 01:30:17,403 - INFO - Medya indiriliyor...
+2025-04-14 01:30:17,403 - INFO - Grup medyası tespit edildi
+2025-04-14 01:30:17,403 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:30:17,404 - INFO - Mesaj işleniyor: 155
+2025-04-14 01:30:17,404 - INFO - Medya indiriliyor...
+2025-04-14 01:30:17,404 - INFO - Grup medyası tespit edildi
+2025-04-14 01:30:17,492 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:30:17,498 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:30:17,504 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:30:17,510 - INFO - Medya grubunda 4 adet medya bulundu
+2025-04-14 01:30:17,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:30:17,758 - INFO - Grup medyası indirildi: bpthaber_media/152_0.jpg
+2025-04-14 01:30:17,759 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:30:17,968 - INFO - Grup medyası indirildi: bpthaber_media/152_1.jpg
+2025-04-14 01:30:17,968 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:30:18,098 - INFO - Grup medyası indirildi: bpthaber_media/152_2.jpg
+2025-04-14 01:30:18,099 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:30:18,232 - INFO - Grup medyası indirildi: bpthaber_media/152_3.jpg
+2025-04-14 01:30:18,232 - INFO - 4 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:30:18,232 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:30:19,026 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:30:19,026 - INFO - Medya yükleniyor...
+2025-04-14 01:30:19,909 - INFO - Medya yüklendi: bpthaber_media/152_0.jpg
+2025-04-14 01:30:20,708 - INFO - Medya yüklendi: bpthaber_media/152_1.jpg
+2025-04-14 01:30:21,370 - INFO - Medya yüklendi: bpthaber_media/152_2.jpg
+2025-04-14 01:30:22,010 - INFO - Medya yüklendi: bpthaber_media/152_3.jpg
+2025-04-14 01:30:22,010 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:30:22,010 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00c7aykur Rizespor taraftarlar\u0131, Papara Park\u2019ta deplasman trib\u00fcn\u00fcn\u00fc sava\u015f alan\u0131na \u00e7evirdi.",
+    "createdAt": "2025-04-13T22:30:22.010438+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidvfby4a7mkeww56wc2a2gesmu23v4xn3l2znawqqjcdk6qvridv4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 60900
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiassibh4ydxhcv7fmqrsiwgd4rwfqktqot3hy6f4aijd5hqk7x53e"
+            },
+            "mimeType": "image/jpeg",
+            "size": 74146
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifqzxv3w7pigqrayhgt6zydcctbh3ovjt6fu4vosypea2mpzq7zau"
+            },
+            "mimeType": "image/jpeg",
+            "size": 33001
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreichpw5whlp67bevsptowp26vhiudy5c5fz7hc3usy4nxl7ma3eh6u"
+            },
+            "mimeType": "image/jpeg",
+            "size": 33918
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:30:23,200 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:30:23,201 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq3xntla32d","cid":"bafyreiatcpwttp3kyubteoj3gf7tzia3wfrp5kbd5zav56dw3nqme27d4i","commit":{"cid":"bafyreihlg24ds37oumzmysf7mutnupbftszaa3wwvzenbdb7x53tc3fr54","rev":"3lmq3xntwx32d"},"validationStatus":"valid"}
+2025-04-14 01:30:23,201 - INFO - 4 adet medya Bluesky'ye gönderildi
+2025-04-14 01:30:23,202 - INFO - Medya dosyası silindi: bpthaber_media/152_0.jpg
+2025-04-14 01:30:23,203 - INFO - Medya dosyası silindi: bpthaber_media/152_1.jpg
+2025-04-14 01:30:23,203 - INFO - Medya dosyası silindi: bpthaber_media/152_2.jpg
+2025-04-14 01:30:23,203 - INFO - Medya dosyası silindi: bpthaber_media/152_3.jpg
+2025-04-14 01:30:42,328 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:30:42,328 - INFO - Mesaj işleniyor: 156
+2025-04-14 01:30:42,328 - INFO - Medya indiriliyor...
+2025-04-14 01:30:42,329 - INFO - Grup medyası tespit edildi
+2025-04-14 01:30:42,414 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:31:25,699 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:31:25,699 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:31:25,700 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:31:25,701 - INFO - Bot başlatılıyor...
+2025-04-14 01:31:25,701 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:31:25,701 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:31:25,777 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:31:25,839 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:31:26,108 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:31:26,108 - INFO - Hedef kanal: clontv
+2025-04-14 01:31:26,108 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:31:28,152 - INFO - Yeni mesaj alındı: Ss...
+2025-04-14 01:31:28,152 - INFO - Mesaj işleniyor: 157
+2025-04-14 01:31:28,152 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 01:31:28,152 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:31:29,055 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:31:29,055 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:31:29,056 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Ss",
+    "createdAt": "2025-04-13T22:31:29.055895+00:00"
+  }
+}
+2025-04-14 01:31:29,456 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:31:29,456 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq3znrynd2d","cid":"bafyreiaskwubtlhhcyiqdyy6jedubbuouj4o3uzfdnsu5zh7lbwhposntq","commit":{"cid":"bafyreihiqp44rby7exmz4ktuskmy2wh42akxqlmsba6fcsbtnecr7hyvwi","rev":"3lmq3znsdf32d"},"validationStatus":"valid"}
+2025-04-14 01:31:29,457 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 01:31:40,061 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:31:40,061 - INFO - Mesaj işleniyor: 158
+2025-04-14 01:31:40,061 - INFO - Medya indiriliyor...
+2025-04-14 01:31:40,061 - INFO - Grup medyası tespit edildi
+2025-04-14 01:31:40,061 - WARNING - Grup ID bulunamadı
+2025-04-14 01:31:40,061 - WARNING - Medya grubu bulunamadı
+2025-04-14 01:31:52,047 - INFO - Yeni mesaj alındı: Çaykur Rizespor taraftarları, Papara Park’ta depla...
+2025-04-14 01:31:52,047 - INFO - Mesaj işleniyor: 159
+2025-04-14 01:31:52,047 - INFO - Medya indiriliyor...
+2025-04-14 01:31:52,048 - INFO - Grup medyası tespit edildi
+2025-04-14 01:31:52,048 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:31:52,048 - INFO - Mesaj işleniyor: 160
+2025-04-14 01:31:52,048 - INFO - Medya indiriliyor...
+2025-04-14 01:31:52,048 - INFO - Grup medyası tespit edildi
+2025-04-14 01:31:52,048 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:31:52,048 - INFO - Mesaj işleniyor: 161
+2025-04-14 01:31:52,049 - INFO - Medya indiriliyor...
+2025-04-14 01:31:52,049 - INFO - Grup medyası tespit edildi
+2025-04-14 01:31:52,049 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:31:52,049 - INFO - Mesaj işleniyor: 162
+2025-04-14 01:31:52,049 - INFO - Medya indiriliyor...
+2025-04-14 01:31:52,049 - INFO - Grup medyası tespit edildi
+2025-04-14 01:31:52,204 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:31:52,204 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:31:52,211 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:31:52,211 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:31:52,217 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:31:52,217 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:31:52,223 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:31:52,223 - INFO - Medya grubunda 4 adet medya bulundu
+2025-04-14 01:31:52,224 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:31:52,484 - INFO - Grup medyası indirildi: bpthaber_media/159_0.jpg
+2025-04-14 01:31:52,485 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:31:52,690 - INFO - Grup medyası indirildi: bpthaber_media/159_1.jpg
+2025-04-14 01:31:52,690 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:31:52,821 - INFO - Grup medyası indirildi: bpthaber_media/159_2.jpg
+2025-04-14 01:31:52,822 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:31:52,977 - INFO - Grup medyası indirildi: bpthaber_media/159_3.jpg
+2025-04-14 01:31:52,977 - INFO - 4 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:31:52,978 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:31:53,721 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:31:53,721 - INFO - Medya yükleniyor...
+2025-04-14 01:31:54,423 - INFO - Medya yüklendi: bpthaber_media/159_0.jpg
+2025-04-14 01:31:55,539 - INFO - Medya yüklendi: bpthaber_media/159_1.jpg
+2025-04-14 01:31:56,106 - INFO - Medya yüklendi: bpthaber_media/159_2.jpg
+2025-04-14 01:31:56,620 - INFO - Medya yüklendi: bpthaber_media/159_3.jpg
+2025-04-14 01:31:56,620 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:31:56,620 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "\u00c7aykur Rizespor taraftarlar\u0131, Papara Park\u2019ta deplasman trib\u00fcn\u00fcn\u00fc sava\u015f alan\u0131na \u00e7evirdi.",
+    "createdAt": "2025-04-13T22:31:56.620336+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidvfby4a7mkeww56wc2a2gesmu23v4xn3l2znawqqjcdk6qvridv4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 60900
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiassibh4ydxhcv7fmqrsiwgd4rwfqktqot3hy6f4aijd5hqk7x53e"
+            },
+            "mimeType": "image/jpeg",
+            "size": 74146
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifqzxv3w7pigqrayhgt6zydcctbh3ovjt6fu4vosypea2mpzq7zau"
+            },
+            "mimeType": "image/jpeg",
+            "size": 33001
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreichpw5whlp67bevsptowp26vhiudy5c5fz7hc3usy4nxl7ma3eh6u"
+            },
+            "mimeType": "image/jpeg",
+            "size": 33918
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:31:57,676 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:31:57,676 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq42hwvvn27","cid":"bafyreifjqdocgoqbnnihz5mgjoxzkwvtljam7dp33ypg4zwb7trb7hf67q","commit":{"cid":"bafyreiakgnwcn22zawrnlff63sbtpvmy2d3l5fkmziclrtsbrzzxmpat3m","rev":"3lmq42hxbmn27"},"validationStatus":"valid"}
+2025-04-14 01:31:57,676 - INFO - 4 adet medya Bluesky'ye gönderildi
+2025-04-14 01:31:57,678 - INFO - Medya dosyası silindi: bpthaber_media/159_0.jpg
+2025-04-14 01:31:57,678 - INFO - Medya dosyası silindi: bpthaber_media/159_1.jpg
+2025-04-14 01:31:57,678 - INFO - Medya dosyası silindi: bpthaber_media/159_2.jpg
+2025-04-14 01:31:57,679 - INFO - Medya dosyası silindi: bpthaber_media/159_3.jpg
+2025-04-14 01:32:07,187 - INFO - Got difference for account updates
+2025-04-14 01:32:58,715 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:32:58,715 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:32:58,716 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:32:58,716 - INFO - Bot başlatılıyor...
+2025-04-14 01:32:58,717 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:32:58,717 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:32:58,795 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:32:58,857 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:32:59,124 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:32:59,124 - INFO - Hedef kanal: clontv
+2025-04-14 01:32:59,124 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:33:07,958 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:33:07,958 - INFO - Mesaj işleniyor: 163
+2025-04-14 01:33:07,958 - INFO - Medya indiriliyor...
+2025-04-14 01:33:07,959 - INFO - Grup medyası tespit edildi
+2025-04-14 01:33:07,959 - WARNING - Grup ID bulunamadı
+2025-04-14 01:33:07,959 - WARNING - Medya grubu bulunamadı
+2025-04-14 01:33:21,909 - INFO - Yeni mesaj alındı: Ezhel, hakaret davalarından kazandığı tazminatı ya...
+2025-04-14 01:33:21,910 - INFO - Mesaj işleniyor: 164
+2025-04-14 01:33:21,910 - INFO - Medya indiriliyor...
+2025-04-14 01:33:21,910 - INFO - Grup medyası tespit edildi
+2025-04-14 01:33:21,910 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:33:21,910 - INFO - Mesaj işleniyor: 165
+2025-04-14 01:33:21,910 - INFO - Medya indiriliyor...
+2025-04-14 01:33:21,910 - INFO - Grup medyası tespit edildi
+2025-04-14 01:33:22,095 - INFO - Grup medyasında 2 adet mesaj bulundu
+2025-04-14 01:33:22,095 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 01:33:22,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:33:22,153 - INFO - Grup medyasında 2 adet mesaj bulundu
+2025-04-14 01:33:22,153 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:33:22,652 - INFO - Grup medyası indirildi: bpthaber_media/164_0.jpg
+2025-04-14 01:33:22,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:33:22,955 - INFO - Grup medyası indirildi: bpthaber_media/164_1.jpg
+2025-04-14 01:33:22,955 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:33:22,955 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:33:24,069 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:33:24,070 - INFO - Medya yükleniyor...
+2025-04-14 01:33:25,011 - INFO - Medya yüklendi: bpthaber_media/164_0.jpg
+2025-04-14 01:33:25,745 - INFO - Medya yüklendi: bpthaber_media/164_1.jpg
+2025-04-14 01:33:25,745 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:33:25,745 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Ezhel, hakaret davalar\u0131ndan kazand\u0131\u011f\u0131 tazminat\u0131 yard\u0131m kurulu\u015flar\u0131na ba\u011f\u0131\u015flayaca\u011f\u0131n\u0131 duyurarak ilk ba\u011f\u0131\u015f\u0131 T\u00fcrkiye Gaziler ve \u015eehit Aileleri K\u00fclt\u00fcr ve Yard\u0131mla\u015fma Vakf\u0131\u2019na yapt\u0131.",
+    "createdAt": "2025-04-13T22:33:25.745209+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiadxewsc5w2eumr4hno7ewsl7bunt4n2eu4rts6twja3eihz4ylwq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 130314
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiawrhpwgvs5hwybsehbj7fw747yqu3tpigupmddaab62ryyufwlry"
+            },
+            "mimeType": "image/jpeg",
+            "size": 117791
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:33:26,828 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:33:26,828 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4552xgk2z","cid":"bafyreifjqt6lui3nmizhu5ne3llm2sjnxipgejdcwp4uavj2gesqkesauu","commit":{"cid":"bafyreidmnzvrdh32oc63jzaeb2dfnyhzgw4u2a3sesnysbtqhbmphzs2je","rev":"3lmq4553d5k2z"},"validationStatus":"valid"}
+2025-04-14 01:33:26,828 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 01:33:26,830 - INFO - Medya dosyası silindi: bpthaber_media/164_0.jpg
+2025-04-14 01:33:26,830 - INFO - Medya dosyası silindi: bpthaber_media/164_1.jpg
+2025-04-14 01:34:02,297 - INFO - Got difference for account updates
+2025-04-14 01:34:14,886 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:34:14,886 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:34:14,886 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:34:14,887 - INFO - Bot başlatılıyor...
+2025-04-14 01:34:14,887 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:34:14,887 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:34:14,936 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:34:14,998 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:34:15,281 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:34:15,281 - INFO - Hedef kanal: clontv
+2025-04-14 01:34:15,281 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:34:23,637 - INFO - Yeni mesaj alındı: Ezhel, hakaret davalarından kazandığı tazminatı ya...
+2025-04-14 01:34:23,638 - INFO - Mesaj işleniyor: 166
+2025-04-14 01:34:23,638 - INFO - Medya indiriliyor...
+2025-04-14 01:34:23,638 - INFO - Grup medyası tespit edildi
+2025-04-14 01:34:23,638 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:34:23,638 - INFO - Mesaj işleniyor: 167
+2025-04-14 01:34:23,639 - INFO - Medya indiriliyor...
+2025-04-14 01:34:23,639 - INFO - Grup medyası tespit edildi
+2025-04-14 01:34:24,468 - INFO - Grup medyasında 2 adet mesaj bulundu
+2025-04-14 01:34:24,468 - INFO - Medya grubunda 2 adet medya bulundu
+2025-04-14 01:34:24,469 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:34:24,477 - INFO - Grup medyasında 2 adet mesaj bulundu
+2025-04-14 01:34:24,477 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:34:25,080 - INFO - Grup medyası indirildi: bpthaber_media/166_0.jpg
+2025-04-14 01:34:25,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:34:25,381 - INFO - Grup medyası indirildi: bpthaber_media/166_1.jpg
+2025-04-14 01:34:25,381 - INFO - 2 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:34:25,381 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:34:26,290 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:34:26,290 - INFO - Medya yükleniyor...
+2025-04-14 01:34:27,177 - INFO - Medya yüklendi: bpthaber_media/166_0.jpg
+2025-04-14 01:34:28,025 - INFO - Medya yüklendi: bpthaber_media/166_1.jpg
+2025-04-14 01:34:28,026 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:34:28,026 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Ezhel, hakaret davalar\u0131ndan kazand\u0131\u011f\u0131 tazminat\u0131 yard\u0131m kurulu\u015flar\u0131na ba\u011f\u0131\u015flayaca\u011f\u0131n\u0131 duyurarak ilk ba\u011f\u0131\u015f\u0131 T\u00fcrkiye Gaziler ve \u015eehit Aileleri K\u00fclt\u00fcr ve Yard\u0131mla\u015fma Vakf\u0131\u2019na yapt\u0131.",
+    "createdAt": "2025-04-13T22:34:28.026078+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiadxewsc5w2eumr4hno7ewsl7bunt4n2eu4rts6twja3eihz4ylwq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 130314
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiawrhpwgvs5hwybsehbj7fw747yqu3tpigupmddaab62ryyufwlry"
+            },
+            "mimeType": "image/jpeg",
+            "size": 117791
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:34:29,008 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:34:29,009 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq46yhmps2z","cid":"bafyreichypuksbitkosvaibw4cd74gnr5jywtc4m6kuzkzef4jtmuz2254","commit":{"cid":"bafyreidq334bccyhpmsx227jsg3xkpm6wqfqhn3ultrvfybmbnmk2lf6we","rev":"3lmq46yhzg22z"},"validationStatus":"valid"}
+2025-04-14 01:34:29,009 - INFO - 2 adet medya Bluesky'ye gönderildi
+2025-04-14 01:34:29,010 - INFO - Medya dosyası silindi: bpthaber_media/166_0.jpg
+2025-04-14 01:34:29,011 - INFO - Medya dosyası silindi: bpthaber_media/166_1.jpg
+2025-04-14 01:34:32,794 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:34:32,794 - INFO - Mesaj işleniyor: 168
+2025-04-14 01:34:32,794 - INFO - Medya indiriliyor...
+2025-04-14 01:34:32,795 - INFO - Grup medyası tespit edildi
+2025-04-14 01:34:32,795 - WARNING - Grup ID bulunamadı
+2025-04-14 01:34:32,795 - WARNING - Medya grubu bulunamadı
+2025-04-14 01:35:04,990 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:35:04,990 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:35:04,990 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:35:04,992 - INFO - Bot başlatılıyor...
+2025-04-14 01:35:04,992 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:35:04,992 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:35:05,031 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:35:05,089 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:35:05,373 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:35:05,373 - INFO - Hedef kanal: clontv
+2025-04-14 01:35:05,373 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:35:08,139 - INFO - Yeni mesaj alındı: Erdoğan'ın Antalya Diplomasi Forumu'ndaki konuşmas...
+2025-04-14 01:35:08,139 - INFO - Mesaj işleniyor: 169
+2025-04-14 01:35:08,139 - INFO - Medya indiriliyor...
+2025-04-14 01:35:08,139 - INFO - Grup medyası tespit edildi
+2025-04-14 01:35:08,139 - INFO - Tek görselli post tespit edildi
+2025-04-14 01:35:08,139 - INFO - Medya grubunda 1 adet medya bulundu
+2025-04-14 01:35:08,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:35:08,527 - INFO - Grup medyası indirildi: bpthaber_media/169_0.jpg
+2025-04-14 01:35:08,527 - INFO - 1 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:35:08,527 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:35:09,448 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:35:09,448 - INFO - Medya yükleniyor...
+2025-04-14 01:35:10,370 - INFO - Medya yüklendi: bpthaber_media/169_0.jpg
+2025-04-14 01:35:10,370 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:35:10,370 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Erdo\u011fan'\u0131n Antalya Diplomasi Forumu'ndaki konu\u015fmas\u0131 kitapla\u015ft\u0131r\u0131ld\u0131.\n\n\ud83d\udde3\ufe0f \u0130leti\u015fim Ba\u015fkan\u0131 Fahrettin Altun:\n\n\"Cumhurba\u015fkan\u0131m\u0131z\u0131n s\u00f6zleri t\u00fcm insanl\u0131k i\u00e7in \u00f6nemli mesaj niteli\u011fi ta\u015f\u0131makta.\"",
+    "createdAt": "2025-04-13T22:35:10.370304+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiewbhxgzzdkwmngcvayd5uvtzyziuojdir4uyri3yuwluc5vr5xci"
+            },
+            "mimeType": "image/jpeg",
+            "size": 106594
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:35:11,532 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:35:11,533 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4aatsbf24","cid":"bafyreifunfwwj7ikrg77i7urjsiervymedcrdtv4ar2ck6sdsbhyastjqu","commit":{"cid":"bafyreigfi3azhfwcrf6wrjqjxxiaknuiq5xl2cl5qwydu7staui7lxngfy","rev":"3lmq4aauet524"},"validationStatus":"valid"}
+2025-04-14 01:35:11,533 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 01:35:11,534 - INFO - Medya dosyası silindi: bpthaber_media/169_0.jpg
+2025-04-14 01:35:20,497 - INFO - Yeni mesaj alındı: Konya’daki bir devlet hastanesinde görevli doktorl...
+2025-04-14 01:35:20,497 - INFO - Mesaj işleniyor: 170
+2025-04-14 01:35:20,497 - INFO - Medya indiriliyor...
+2025-04-14 01:35:20,497 - INFO - Grup medyası tespit edildi
+2025-04-14 01:35:20,498 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:35:20,498 - INFO - Mesaj işleniyor: 171
+2025-04-14 01:35:20,498 - INFO - Medya indiriliyor...
+2025-04-14 01:35:20,498 - INFO - Grup medyası tespit edildi
+2025-04-14 01:35:20,498 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:35:20,498 - INFO - Mesaj işleniyor: 172
+2025-04-14 01:35:20,498 - INFO - Medya indiriliyor...
+2025-04-14 01:35:20,498 - INFO - Grup medyası tespit edildi
+2025-04-14 01:35:20,499 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:35:20,499 - INFO - Mesaj işleniyor: 173
+2025-04-14 01:35:20,499 - INFO - Medya indiriliyor...
+2025-04-14 01:35:20,499 - INFO - Grup medyası tespit edildi
+2025-04-14 01:35:20,649 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:35:20,649 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:35:20,658 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:35:20,659 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:35:20,668 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:35:20,668 - INFO - Medya grubunda 4 adet medya bulundu
+2025-04-14 01:35:20,668 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:35:20,679 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:35:20,679 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:35:20,842 - INFO - Grup medyası indirildi: bpthaber_media/170_0.jpg
+2025-04-14 01:35:20,842 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:35:20,985 - INFO - Grup medyası indirildi: bpthaber_media/170_1.jpg
+2025-04-14 01:35:20,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:35:21,177 - INFO - Grup medyası indirildi: bpthaber_media/170_2.jpg
+2025-04-14 01:35:21,177 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:35:21,292 - INFO - Grup medyası indirildi: bpthaber_media/170_3.jpg
+2025-04-14 01:35:21,292 - INFO - 4 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:35:21,292 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:35:22,044 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:35:22,044 - INFO - Medya yükleniyor...
+2025-04-14 01:35:22,949 - INFO - Medya yüklendi: bpthaber_media/170_0.jpg
+2025-04-14 01:35:23,915 - INFO - Medya yüklendi: bpthaber_media/170_1.jpg
+2025-04-14 01:35:24,545 - INFO - Medya yüklendi: bpthaber_media/170_2.jpg
+2025-04-14 01:35:25,153 - INFO - Medya yüklendi: bpthaber_media/170_3.jpg
+2025-04-14 01:35:25,153 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:35:25,153 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Konya\u2019daki bir devlet hastanesinde g\u00f6revli doktorlar\u0131n Whatsapp grubunda kad\u0131n hastalarla ilgili mesajlar\u0131 g\u00fcndem oldu.",
+    "createdAt": "2025-04-13T22:35:25.153718+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiejihz2vfhg57epcxgvycgdeedqa2xoz3msvth67oo2t5vrxurfz4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 58152
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreib53xhvjfu3n3tqhctwnfqbqfm3cosne2kh6lkvaau3bxanierocy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 46999
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigayjjgk2zpnekmk4hkdwxk737opxuoqdz3qbwv333bffopvy4pra"
+            },
+            "mimeType": "image/jpeg",
+            "size": 66819
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicdcwmmjgwsqlrhwuag322cmjou5cmbstybipunxzzvugljoghiom"
+            },
+            "mimeType": "image/jpeg",
+            "size": 29254
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:35:26,305 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:35:26,306 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4aowzre2c","cid":"bafyreiajr5lgr6w3kix4r5otqtpjpytb4u3iw7gx2553e5kjuovuxsxkqm","commit":{"cid":"bafyreid4qilja7ulhyhuovb6j2o4zwhkivdnedm4r3r6jgkqlbpf7gbigm","rev":"3lmq4aoxghm2c"},"validationStatus":"valid"}
+2025-04-14 01:35:26,306 - INFO - 4 adet medya Bluesky'ye gönderildi
+2025-04-14 01:35:26,307 - INFO - Medya dosyası silindi: bpthaber_media/170_0.jpg
+2025-04-14 01:35:26,307 - INFO - Medya dosyası silindi: bpthaber_media/170_1.jpg
+2025-04-14 01:35:26,308 - INFO - Medya dosyası silindi: bpthaber_media/170_2.jpg
+2025-04-14 01:35:26,308 - INFO - Medya dosyası silindi: bpthaber_media/170_3.jpg
+2025-04-14 01:36:33,463 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:36:33,463 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:36:33,463 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:36:33,465 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:36:33,465 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:36:33,465 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:36:33,465 - INFO - Bot başlatılıyor...
+2025-04-14 01:36:33,542 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:36:33,605 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:36:33,952 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:36:33,953 - INFO - Hedef kanallar: clontv, bot_haber
+2025-04-14 01:36:33,953 - INFO - clontv kanalı için mesajlar dinleniyor...
+2025-04-14 01:36:33,953 - INFO - bot_haber kanalı için mesajlar dinleniyor...
+2025-04-14 01:36:33,953 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:36:36,348 - INFO - Got difference for channel 2390973372 updates
+2025-04-14 01:36:36,418 - INFO - Yeni mesaj alındı: Jdjd
+2025-04-14 01:36:36,418 - INFO - Mesaj işleniyor: 3
+2025-04-14 01:36:36,418 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 01:36:36,418 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:36:37,269 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:36:37,269 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:36:37,269 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Jdjd",
+    "createdAt": "2025-04-13T22:36:37.269571+00:00"
+  }
+}
+2025-04-14 01:36:37,656 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:36:37,657 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4ctpw4b2b","cid":"bafyreib6tj2u5mn57gwat2364itmzggquohz67mxnjdwpwpt2klq2v3rhq","commit":{"cid":"bafyreifqdfiqr6h5fsnhdq2ldaky3d64dkf2uahluq7j5vwonwygcxuoxe","rev":"3lmq4ctqbtb2b"},"validationStatus":"valid"}
+2025-04-14 01:36:37,657 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 01:36:37,658 - INFO - Yeni mesaj alındı: Haberbot
+2025-04-14 01:36:37,658 - INFO - Mesaj işleniyor: 4
+2025-04-14 01:36:37,658 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 01:36:37,658 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:36:38,371 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:36:38,371 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:36:38,372 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Haberbot",
+    "createdAt": "2025-04-13T22:36:38.371910+00:00"
+  }
+}
+2025-04-14 01:36:38,756 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:36:38,756 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4curgsi2x","cid":"bafyreicfxrgdhunxizhd4unt6as5pgfjtds3t4bfr73j37tqamrlkddc6u","commit":{"cid":"bafyreie4ysrfsqzzadr2xpt27c4o7243y4wet7dhh2f4dmlyjylvbk7tku","rev":"3lmq4cursji2x"},"validationStatus":"valid"}
+2025-04-14 01:36:38,757 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 01:36:45,074 - INFO - Got difference for channel 1321635030 updates
+2025-04-14 01:36:45,075 - INFO - Yeni mesaj alındı: ...
+2025-04-14 01:36:45,075 - INFO - Mesaj işleniyor: 173
+2025-04-14 01:36:45,075 - INFO - Medya indiriliyor...
+2025-04-14 01:36:45,075 - INFO - Grup medyası tespit edildi
+2025-04-14 01:36:45,075 - INFO - Yeni mesaj alındı: Haberclon
+2025-04-14 01:36:45,075 - INFO - Mesaj işleniyor: 174
+2025-04-14 01:36:45,075 - INFO - Metin Bluesky'ye gönderiliyor...
+2025-04-14 01:36:45,075 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:36:45,813 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:36:45,813 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:36:45,814 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "Haberclon",
+    "createdAt": "2025-04-13T22:36:45.813919+00:00"
+  }
+}
+2025-04-14 01:36:46,204 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:36:46,204 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4d3ula222","cid":"bafyreie2rexudh5y3omva2garsvh35kae56vme4wjus24dri2gdmbq7zkq","commit":{"cid":"bafyreihqgxwtvekfd2ua5rfckexumjz7kw7ieaqhpzexqvwhilxswzfpta","rev":"3lmq4d3uxwc22"},"validationStatus":"valid"}
+2025-04-14 01:36:46,204 - INFO - Metin Bluesky'ye gönderildi
+2025-04-14 01:36:46,363 - INFO - Grup medyasında 4 adet mesaj bulundu
+2025-04-14 01:36:46,368 - INFO - Bu mesaj grup medyasının ilk mesajı değil, atlanıyor...
+2025-04-14 01:37:14,933 - INFO - Yeni mesaj alındı: AKP iktidarında halkın borcu 130 milyon dolardan, 7,6 milyar dolara çıktı.
+
+2002 yılında kredi kullanan kişi sayısı 1,2 milyonken, 2025'te bu sayı 42 milyona yükseldi.
+2025-04-14 01:37:14,934 - INFO - Mesaj işleniyor: 5
+2025-04-14 01:37:14,934 - INFO - Medya indiriliyor...
+2025-04-14 01:37:14,934 - INFO - Grup medyası tespit edildi
+2025-04-14 01:37:14,934 - INFO - Tek görselli post tespit edildi
+2025-04-14 01:37:14,934 - INFO - Medya grubunda 1 adet medya bulundu
+2025-04-14 01:37:14,935 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-04-14 01:37:15,177 - INFO - Grup medyası indirildi: bpthaber_media/5_0.jpg
+2025-04-14 01:37:15,177 - INFO - 1 adet grup medyası Bluesky'ye gönderiliyor...
+2025-04-14 01:37:15,177 - INFO - Bluesky oturumu açılıyor...
+2025-04-14 01:37:16,026 - INFO - Bluesky oturumu başarıyla açıldı
+2025-04-14 01:37:16,026 - INFO - Medya yükleniyor...
+2025-04-14 01:37:16,892 - INFO - Medya yüklendi: bpthaber_media/5_0.jpg
+2025-04-14 01:37:16,892 - INFO - Gönderi Bluesky'ye gönderiliyor...
+2025-04-14 01:37:16,893 - INFO - Gönderi verisi: {
+  "repo": "hakikathaber.tr",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "AKP iktidar\u0131nda halk\u0131n borcu 130 milyon dolardan, 7,6 milyar dolara \u00e7\u0131kt\u0131.\n\n2002 y\u0131l\u0131nda kredi kullanan ki\u015fi say\u0131s\u0131 1,2 milyonken, 2025'te bu say\u0131 42 milyona y\u00fckseldi.",
+    "createdAt": "2025-04-13T22:37:16.892964+00:00",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiehxdcz76semz2ybc6bqjvwjfazrmz3n6lkdiuyqem2ozscfrqpvu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 53781
+          },
+          "alt": ""
+        }
+      ]
+    }
+  }
+}
+2025-04-14 01:37:17,981 - INFO - Mesaj Bluesky'ye başarıyla gönderildi
+2025-04-14 01:37:17,981 - INFO - Yanıt: {"uri":"at://did:plc:aly3kokathtytelbgr3dr2k4/app.bsky.feed.post/3lmq4dzixv524","cid":"bafyreihnpr4n3zqupyxjdvy6kryj3t4lynstrkmtemvxn2n6edpvw3q2w4","commit":{"cid":"bafyreiderwrbfdr24wi3kiw2dvq3gqnprj2rhaxzzlkfjnlcfjkvq6xyqq","rev":"3lmq4dzjelf24"},"validationStatus":"valid"}
+2025-04-14 01:37:17,981 - INFO - 1 adet medya Bluesky'ye gönderildi
+2025-04-14 01:37:17,982 - INFO - Medya dosyası silindi: bpthaber_media/5_0.jpg
+2025-04-14 01:37:32,308 - INFO - Got difference for account updates
+2025-04-14 01:39:27,911 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:39:27,912 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:39:27,912 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:39:27,913 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:39:27,913 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:39:27,913 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:39:27,913 - INFO - Bot başlatılıyor...
+2025-04-14 01:39:27,991 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:39:28,053 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:39:28,519 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:39:28,519 - INFO - Hedef kanallar: clontv, bot_haber
+2025-04-14 01:39:28,519 - INFO - clontv kanalı için mesajlar dinleniyor...
+2025-04-14 01:39:28,520 - INFO - bot_haber kanalı için mesajlar dinleniyor...
+2025-04-14 01:39:28,520 - INFO - Bot başlatıldı ve mesajları dinliyor...
+2025-04-14 01:39:48,263 - INFO - Yeni mesaj alındı: **Doğanın Sihirli Dokunuşu**
+
+Doğa, insan ruhunun en eski dostu, en sadık sığınağıdır. Şehirlerin beton yığınları arasında sıkışıp kalan modern insan, doğaya her dokunduğunda yeniden can bulur. Ormanda bir yürüyüş, dalgaların sahile vuruşu ya da bir dağın zirvesinden görünen uçsuz bucaksız manzara; hepsi zihni dinginleştirir, kalbi ısıtır. Peki, doğa neden bu kadar güçlü bir etkiye sahiptir?
+
+Bilim, doğanın insan üzerindeki etkisini sayısız kez kanıtladı. Yeşilin tonları gözü rahatlatırken, temiz hava akciğerleri tazeler. Orman kokusu, stresi azaltan kimyasallar salgılar. Ancak doğanın büyüsü yalnızca bilimle açıklanamaz. Bir ağacın gölgesinde otururken ya da bir nehrin çağlayışını dinlerken, insan evrenle bir olduğunu hisseder. Bu, belki de atalarımızdan miras kalan bir içgüdü; doğayla bağ kurmak, hayatta kalmaktan fazlasını ifade eder.
+
+Modern yaşam, doğadan kopuşu hızlandırdı. Teknoloji, hayatı kolaylaştırırken, ruhumuzu besleyen o basit anları çaldı. Telefon ekranına bakarak geçirilen saatler, bir çiçeğin açılışını izlemenin yerini tutabilir mi? Ya da sosyal medyada gezinmek, yıldızlı bir gökyüzünün huzurunu verebilir mi? Doğaya dönmek, yalnızca bir kaçış değil, aynı zamanda bir uyanıştır.
+
+Bu yüzden, haftada bir gün bile olsa, doğayla buluşalım. Bir parkta yür
+2025-04-14 01:39:48,264 - INFO - Mesaj işleniyor: 175
+2025-04-14 01:39:48,264 - INFO - Metin çok uzun (1285 karakter), paylaşılmıyor...
+2025-04-14 01:58:01,991 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:58:01,991 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:58:01,991 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:58:01,993 - INFO - API bilgileri yüklendi: API_ID=1692883
+2025-04-14 01:58:01,993 - INFO - Çalışma dizini: C:\xampp\htdocs\bpt
+2025-04-14 01:58:01,993 - INFO - SESSION_STRING uzunluğu: 353
+2025-04-14 01:58:01,993 - INFO - Bot başlatılıyor...
+2025-04-14 01:58:02,045 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-04-14 01:58:02,107 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-04-14 01:58:02,442 - INFO - Telegram'a bağlanıldı
+2025-04-14 01:58:02,442 - INFO - Hedef kanallar: clontv, bot_haber, bpthaber
+2025-04-14 01:58:02,443 - INFO - clontv kanalı için mesajlar dinleniyor...
+2025-04-14 01:58:02,443 - INFO - bot_haber kanalı için mesajlar dinleniyor...
+2025-04-14 01:58:02,443 - INFO - bpthaber kanalı için mesajlar dinleniyor...
+2025-04-14 01:58:02,443 - INFO - Bot başlatıldı ve mesajları dinliyor...
